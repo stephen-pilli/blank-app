@@ -1,17 +1,17 @@
 #
 &#x20;   **1. Introductory statement:**
 
-&#x20;       a. Researcher’s Name:  Dr. Vivek Nallur
+&#x20;       a. Researcher’s Names:  Dr. Zuzana Švédová, Dr. Fatemeh Golpayegani, Dr. Vivek Nallur, Stephen Pilli
 
-&#x20;       b. University College Dublin
+&#x20;       b. Project: ReRoute Project
 
-&#x20;       c. School of Computer Science
+&#x20;       C. Transport Research Centre, v. v. i. (CDV), University College Dublin School of Computer Science
 
-&#x20;       d. Detecting Cognitive Biases Using Conversational Agents.
+&#x20;       d. User behavioural Modelling Transport Research - Detecting and Mitigating Human Cognitive Biases in Public Transportation Choices
 
 &#x20;   **2. What is this research about?**
 
-The objective of this study is to determine the if cognitive biases can be detected through the utilisation of conversational agents, specifically chatbots in the domain of public transportation. Given that cognitive biases are inherent in all human beings, our aim is to examine planning data across diverse tasks acquired during the experimental process. The overarching goal is to assess the capability of a conversational agent to consistently identify the presence of a specific cognitive bias, namely the status quo bias, framing effect, without the requirement for human input.
+Our study aims to explore how human cognitive biases affect users' choices in sustainable transportation. Chatbots play a key role in presenting different transport options to users. We are investigating whether  biases can be identified through a chatbot, with the goal of reducing them and encouraging more sustainable transport decisions. 
 
 &#x20;   **3. Why am I doing this research?**
 
@@ -43,4 +43,4 @@ Participation in this research is entirely voluntary. Should you choose to engag
 
 &#x20;   **10. How will I find out what happens with this project?**
 
-To stay informed about the progress of this project, please maintain communication with the principal investigator, Dr. Vivek Nallur. It is anticipated that certain outcomes of the research will be disseminated through publications, and you can contact Dr. Nallur to receive notifications regarding these developments. It is assured that any publications resulting from this study will exclusively employ anonymized data, ensuring the confidentiality of all participants. A concise overview of the research findings will be accessible on Dr. Vivek's research website at [https://viveknallur.github.io.](https://viveknallur.github.io.)
+To stay informed about the progress of this project, please maintain communication with the principal investigator, Dr. Vivek Nallur. It is anticipated that certain outcomes of the research will be disseminated through publications, and you can contact Dr. Nallur to receive notifications regarding these developments. It is assured that any publications resulting from this study will exclusively employ anonymized data, ensuring the confidentiality of all participants.
